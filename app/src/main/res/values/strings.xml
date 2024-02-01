@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecortoAndroid</string>
+    <string name="facebook_app_id">199566963193823</string>
+    <string name="facebook_client_token">07769bc3a3f9cfba6700e71348ac2a54</string>
+    <string name="fb_login_protocol_scheme">fb199566963193823</string>
+    <string name="default_web_client_id">166756585995-irc00tqugjnu6eshvptl22be0jvf9s6h.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316425656875",
+    "project_id": "recorto-f5235",
+    "storage_bucket": "recorto-f5235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316425656875:android:ae0a22fc81a2c790c2e86e",
+        "android_client_info": {
+          "package_name": "com.ustabrothers.recortoandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRhrzROSTaejzzhrmiulORYeVK9YWE5Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

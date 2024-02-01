@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_tab1"
+        android:icon="@drawable/baseline_home_24"
+        android:title="AnaSayfa" />
+    <item
+        android:id="@+id/navigation_tab2"
+        android:icon="@drawable/baseline_search_24"
+        android:title="Arama" />
+    <item
+        android:id="@+id/navigation_tab3"
+        android:icon="@drawable/baseline_message_24"
+        android:title="Mesaj" />
+    <item
+        android:id="@+id/navigation_tab4"
+        android:icon="@drawable/baseline_calendar_month_24"
+        android:title="Ajanda" />
+    <item
+        android:id="@+id/navigation_tab5"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Profil" />
+</menu>
